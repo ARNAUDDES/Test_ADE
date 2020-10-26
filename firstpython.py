@@ -1,3 +1,3 @@
-#Display the ouput
+#Display the output
 
 print("My first python file !")
